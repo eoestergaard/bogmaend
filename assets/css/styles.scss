@@ -2,3 +2,30 @@
 ---
 
 @import "minima";
+
+// Creamy page background
+$background-color: #f8f3e8;
+
+// Slightly darker cream for table lines
+$table-line-color: #ddd5c5;
+
+body {
+  background-color: $background-color;
+}
+
+// Tables: horizontal lines only
+table {
+  border-collapse: collapse;
+  border: none;
+}
+
+th,
+td {
+  border: none;
+  border-bottom: 1px solid $table-line-color;
+  padding: 0.6rem 0.8rem;
+}
+
+th {
+  border-bottom: 2px solid $table-line-color;
+}
