@@ -2,5 +2,8 @@ title: Bogmaend
 description: My Bogmaend website
 theme: minima
 
+minima:
+  skin: solarized-dark
+
 header_pages:
   - about.md
