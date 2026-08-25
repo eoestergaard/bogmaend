@@ -6,3 +6,18 @@
 body {
   background-color: #FFF8DC !important;
 }
+
+.post-content table {
+  border-collapse: collapse;
+  border: none;
+
+  th,
+  td {
+    border: none;
+    border-bottom: 1px solid #E8DFC5;
+    background-color: transparent;
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
