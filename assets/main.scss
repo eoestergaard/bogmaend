@@ -7,24 +7,23 @@ body {
   background-color: #FFF8DC !important;
 }
 
-.post-content table,
-.post-content table tr,
-.post-content table th,
-.post-content table td {
-  background: #FFF8DC !important;
-  background-color: #FFF8DC !important;
-  border: 0 !important;
-}
-
-.post-content table {
+/* Markdown tables */
+table {
   border-collapse: collapse !important;
+  border: none !important;
 }
 
-.post-content table th,
-.post-content table td {
+table th,
+table td {
+  background-color: #FFF8DC !important;
+  border: none !important;
   border-bottom: 1px solid #E8DFC5 !important;
 }
 
-.post-content table tr:last-child td {
-  border-bottom: 0 !important;
+table tr {
+  background-color: #FFF8DC !important;
+}
+
+table tr:last-child td {
+  border-bottom: none !important;
 }
