@@ -5,11 +5,7 @@ title: Bogmaend
 
 # Welcome to Bogmaend
 
-****
-
 Vi læser bøger.
-
-****
 
 ## Hvad vi læser
 
