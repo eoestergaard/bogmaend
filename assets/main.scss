@@ -7,18 +7,29 @@ body {
   background-color: #FFF8DC !important;
 }
 
-table {
-  border: none;
-  border-collapse: collapse;
+.post-content table {
+  border: none !important;
+  border-collapse: collapse !important;
+  background: transparent !important;
 
   th,
   td {
-    border: none;
-    background-color: transparent !important;
+    border: none !important;
+    background: transparent !important;
   }
 
+  tr,
   tr:nth-child(even),
   tr:nth-child(odd) {
-    background-color: transparent !important;
+    background: transparent !important;
+  }
+
+  th,
+  td {
+    border-bottom: 1px solid #E8DFC5 !important;
+  }
+
+  tr:last-child td {
+    border-bottom: none !important;
   }
 }
