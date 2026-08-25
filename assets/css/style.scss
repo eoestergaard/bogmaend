@@ -3,24 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Overall */
-
 body {
-  background: #FF0000;
-  color: var(--black);
-
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    "SF Pro Display",
-    "SF Pro Text",
-    Helvetica,
-    Arial,
-    sans-serif;
-
-  -webkit-font-smoothing: antialiased;
-}
-
-.home h2 {
-  margin-top: 80px;
+  background-color: #FFF8DC;
 }
