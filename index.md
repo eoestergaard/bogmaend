@@ -14,6 +14,7 @@ Du kan følge med i hvad vi læser lige her:
 | Hvornår | Forfatter | Titel |
 |------|-----|------|
 | Juli 2026 | Linea Maja Ernsts | Kun til navlen |
+| Maj 2026 | Robin Wall Kimmerer | Braiding Sweetgrass |
 | Februar 2026 | Victor E. Frankl | Menneskets søgen efter mening |
 | December 2025 | Bjørn Rasmussen | Huden er det elastiske hylster, der omgiver hele legemet |
 | Oktober 2025 | Malte Tellerup | Spræng Fabrikken |
