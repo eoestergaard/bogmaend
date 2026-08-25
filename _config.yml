@@ -1,3 +1,6 @@
 title: Bogmaend
 description: My Bogmaend website
 theme: minima
+
+header_pages:
+  - about.md
