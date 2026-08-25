@@ -7,29 +7,24 @@ body {
   background-color: #FFF8DC !important;
 }
 
+.post-content table,
+.post-content table tr,
+.post-content table th,
+.post-content table td {
+  background: #FFF8DC !important;
+  background-color: #FFF8DC !important;
+  border: 0 !important;
+}
+
 .post-content table {
-  border: none !important;
   border-collapse: collapse !important;
-  background: transparent !important;
+}
 
-  th,
-  td {
-    border: none !important;
-    background: transparent !important;
-  }
+.post-content table th,
+.post-content table td {
+  border-bottom: 1px solid #E8DFC5 !important;
+}
 
-  tr,
-  tr:nth-child(even),
-  tr:nth-child(odd) {
-    background: transparent !important;
-  }
-
-  th,
-  td {
-    border-bottom: 1px solid #E8DFC5 !important;
-  }
-
-  tr:last-child td {
-    border-bottom: none !important;
-  }
+.post-content table tr:last-child td {
+  border-bottom: 0 !important;
 }
