@@ -7,17 +7,18 @@ body {
   background-color: #FFF8DC !important;
 }
 
-.post-content table {
-  border-collapse: collapse;
+table {
   border: none;
+  border-collapse: collapse;
 
   th,
   td {
     border: none;
-    border-bottom: 1px solid #E8DFC5;
     background-color: transparent !important;
   }
 
-  tr:last-child td {
-    border-bottom: none;
+  tr:nth-child(even),
+  tr:nth-child(odd) {
+    background-color: transparent !important;
   }
+}
