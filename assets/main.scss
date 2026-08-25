@@ -13,19 +13,29 @@ body {
   background-color: $background-color;
 }
 
-// Tables: horizontal lines only
+// Tables: horizontal lines only, no alternating row colors
 table {
   border-collapse: collapse;
-  border: none;
+  border: none !important;
+  background-color: $background-color !important;
+}
+
+table tr,
+table tr:nth-child(even),
+table tr:nth-child(odd) {
+  background-color: $background-color !important;
 }
 
 table th,
 table td {
-  border: none;
-  border-bottom: 1px solid $table-line-color;
+  border-left: none !important;
+  border-right: none !important;
+  border-top: none !important;
+  border-bottom: 1px solid $table-line-color !important;
+  background-color: $background-color !important;
   padding: 0.6rem 0.8rem;
 }
 
 table th {
-  border-bottom: 2px solid $table-line-color;
+  border-bottom: 2px solid $table-line-color !important;
 }
