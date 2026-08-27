@@ -3,7 +3,7 @@ layout: default
 title: Bogmaend
 ---
 
-# Welcome to Bogmaend
+# Bogmaend
 
 Vi læser bøger.
 
