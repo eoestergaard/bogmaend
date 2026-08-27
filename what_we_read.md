@@ -4,8 +4,6 @@ title: Hvad vi læser
 permalink: /hvad_vi_læser/
 ---
 
-# Hvad vi læser
-
 Du kan følge med i hvad vi læser lige her:
 
 | Hvornår | Forfatter | Titel |
