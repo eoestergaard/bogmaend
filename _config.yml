@@ -1,4 +1,6 @@
 title: Bogmaend
+baseurl: "/bogmaend"
+url: "https://eoestergaard.github.io"
 description: My Bogmaend website
 theme: minima
 
