@@ -3,6 +3,3 @@ baseurl: "/bogmaend"
 url: "https://eoestergaard.github.io"
 description: My Bogmaend website
 theme: minima
-
-header_pages:
-  - what_we_read.md
