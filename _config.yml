@@ -5,5 +5,4 @@ description: My Bogmaend website
 theme: minima
 
 header_pages:
-  - about.md
   - what_we_read.md
